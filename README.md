@@ -1,8 +1,8 @@
 # Nine-Men-Morris-Game-UI
 
-This is a Python implementation of the Nine Mens Morris game. Instead of Black and White pieces, we have grass and fire.
+This is a Python implementation of the Nine Mens Morris game. Instead of Black and White pieces, we have grass and fire. I used pygame to cook up a GUI for the game.
 
-The AI that plays against the player uses minimax strategy at a max depth of 7. (You cabn play around the depth values in the helper files).
+The AI opponent uses minimax strategy at a max depth of 7. (You cabn play around with the depth values in the helper files).
 
 
 ## To run the game.
